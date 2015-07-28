@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIProgressDelegate.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIFormDataRequest.h
+END
+ASINSStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASINSStringAdditions.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIFormDataRequest.m
+END
+ASINSStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASINSStringAdditions.m
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIHTTPRequest.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIHTTPRequestConfig.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIInputStream.h
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIHTTPRequest.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIHTTPRequestDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIAuthenticationDialog.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIInputStream.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASINetworkQueue.h
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASIAuthenticationDialog.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/betterphotographer/!svn/ver/576/RunInjuryFree/Version%203/ASIHTTP%20Classes/ASINetworkQueue.m
+END
